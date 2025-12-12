@@ -7,7 +7,6 @@ import time
 from enum import Enum
 import os
 
-
 # ============================
 # Advanced Harry Potter Theme
 # ============================
